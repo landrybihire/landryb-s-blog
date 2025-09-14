@@ -1,0 +1,5 @@
+{
+  "name": "Landry's Log",
+  "description": "A personal blog for Landry, powered by Gemini. AI generates both the articles and the cover images based on user prompts, creating a unique and dynamic content experience.",
+  "requestFramePermissions": []
+}
